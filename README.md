@@ -11,5 +11,3 @@ My favorite sport is Badminton, the team of this sport is Hyderabad Warriors
 - Chennai Superstars
 - Mumbai Rockets
 - Pune Panthers
-
-If you want to know more about me, visit [here](https://github.com/S558901/assignment2-thumati/blob/main/AboutMe.md)
