@@ -16,3 +16,11 @@ The table name is Trip Advisory, it consists of three columns first column consi
 | USA                  |   To meet family members  |       6        |
 | Canada               |   To meet family members  |       7        |
 | Egypt                |   Visit some places       |       8        |
+
+___
+
+**Funny Quotes**
+
+> Common sense is like deodorant. The people who need it most never use it. -_Anonymous_
+>
+> If an egg is broken by an outside force life ends, if an egg is broken by an inside force life begins. -_Abdul Kalam_
