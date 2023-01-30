@@ -7,3 +7,6 @@ My favorite sport is Badminton, the team of this sport is Hyderabad Warriors
 1. PV Sindhu
 2. Srikanth
 3. Sania
+- Chennai Superstars
+- Mumbai Rockets
+- Pune Panthers
