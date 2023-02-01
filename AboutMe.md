@@ -29,9 +29,12 @@ ___
 
 # Code Fencing
 
-> [Button not showing console log function](https://stackoverflow.com/questions/75299954/button-not-showing-console-log-function)
+> Styling radio button
 
-```css
+[Link to Stackoverflow](https://stackoverflow.com/questions/25590269/styling-radio-button)
+
+CSS code
+```
 /*
   Hide the original radios and checkboxes
   (but still accessible)
@@ -74,4 +77,4 @@ li:not(#foo) > fieldset > div > span > input[type='checkbox']:checked + label {
 }
 ```
 
-> [Custom Checkboxes and Radio Buttons](https://css-tricks.com/snippets/css/custom-checkboxes-and-radio-buttons)
+> [Custom Checkboxes and Radio Buttons](https://css-tricks.com/snippets/css/custom-checkboxes-and-radio-buttons/)
